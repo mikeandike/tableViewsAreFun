@@ -14,6 +14,7 @@
 		8C7AB3231AF2994500F17C85 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C7AB3221AF2994500F17C85 /* Images.xcassets */; };
 		8C7AB3261AF2994500F17C85 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C7AB3241AF2994500F17C85 /* LaunchScreen.xib */; };
 		8C7AB3321AF2994500F17C85 /* TableViewsAreFunTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7AB3311AF2994500F17C85 /* TableViewsAreFunTests.m */; };
+		8C7AB33D1AF2A90900F17C85 /* CityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C7AB33C1AF2A90900F17C85 /* CityViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		8C7AB32B1AF2994500F17C85 /* TableViewsAreFunTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewsAreFunTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C7AB3301AF2994500F17C85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C7AB3311AF2994500F17C85 /* TableViewsAreFunTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewsAreFunTests.m; sourceTree = "<group>"; };
+		8C7AB33B1AF2A90900F17C85 /* CityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityViewController.h; sourceTree = "<group>"; };
+		8C7AB33C1AF2A90900F17C85 /* CityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				8C7AB31A1AF2994500F17C85 /* AppDelegate.m */,
 				8C7AB31C1AF2994500F17C85 /* ViewController.h */,
 				8C7AB31D1AF2994500F17C85 /* ViewController.m */,
+				8C7AB33B1AF2A90900F17C85 /* CityViewController.h */,
+				8C7AB33C1AF2A90900F17C85 /* CityViewController.m */,
 				8C7AB31F1AF2994500F17C85 /* Main.storyboard */,
 				8C7AB3221AF2994500F17C85 /* Images.xcassets */,
 				8C7AB3241AF2994500F17C85 /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				8C7AB31E1AF2994500F17C85 /* ViewController.m in Sources */,
 				8C7AB31B1AF2994500F17C85 /* AppDelegate.m in Sources */,
 				8C7AB3181AF2994500F17C85 /* main.m in Sources */,
+				8C7AB33D1AF2A90900F17C85 /* CityViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
